@@ -88,6 +88,7 @@
 **[`^        back to top        ^`](##awesome-selfhosted---non-free-software)**
 
 - [Forward Email](https://forwardemail.net) - Privacy-focused encrypted email for everyone. All-in-one alternative to Gmail + Mailchimp + Sendgrid. ([Source Code](https://github.com/forwardemail/forwardemail.net)) `BUSL-1.1/MPL-2.0` `Nodejs/Docker`
+- [Nubo Email](https://nubo.email) - Privacy-first email and collaboration platform built on JMAP. Email, calendar, drive, video meetings, and team chat with organization-based pricing. `⊘ Proprietary` `JMAP`
 
 
 ### Communication - Email - Mailing Lists and Newsletters
